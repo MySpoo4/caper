@@ -1,0 +1,7 @@
+[package]
+name = "xcraper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ouroboros = "0.18.4"
